@@ -1,0 +1,11 @@
+{
+    "autoload": {
+    	"psr-4": {
+    		"DevNax\\PIETeacher\\": ["./config", "./includes"]
+		},
+		"classmap": [],
+    	"files": [
+    		"./functions.php"
+    	]
+    } 
+}
